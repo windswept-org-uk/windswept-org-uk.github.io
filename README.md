@@ -1,3 +1,3 @@
-# Windwsept Web site
+# Windswept Web site
 
 This is my website
